@@ -11,7 +11,7 @@ from feedback import Feedback
 
 query = '{query}'
 query = query.lower()
-baseurl = 'http://en.wikipedia.org/wiki/List_of_HTTP_status_codes#'
+baseurl = 'https://httpstatuses.com/'
 
 fb = Feedback()
 
