@@ -26,4 +26,4 @@ with open('status_code.csv', 'r') as csvfile:
         elif lower_desc.find(query) != -1:
             fb.add_item(code, desc, arg=baseurl + code)
 
-print fb
+print(fb)
