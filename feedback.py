@@ -9,7 +9,7 @@ class Feedback():
         fb = Feedback()
         fb.add_item('Hello', 'World')
         fb.add_item('Foo', 'Bar')
-        print fb
+        print(fb)
 
     """
 
@@ -22,7 +22,7 @@ class Feedback():
         Returns:
             XML string
         """
-        return et.tostring(self.feedback)
+        return et.tostring(self.feedback).decode('utf-8')
 
     def add_item(self, title, subtitle="", arg="", valid="yes", autocomplete="", icon="icon.png"):
         """
