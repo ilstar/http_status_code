@@ -5,11 +5,12 @@ Github: https://github.com/ilstar/http_status_code
 Author: Fred Liang
 '''
 
+import sys
 import csv
 
 from feedback import Feedback
 
-query = '{query}'
+query = sys.argv[1]
 query = query.lower()
 baseurl = 'https://httpstatuses.com/'
 
