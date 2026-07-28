@@ -1,7 +1,7 @@
 PYTHON ?= python3
 QUERY ?= 404
 
-WORKFLOW := build/http-status-code.alfredworkflow
+WORKFLOW := build/HTTP.Status.Code.alfredworkflow
 WORKFLOW_FILES := info.plist http_status_code.py feedback.py status_code.csv icon.png
 MDN_STATUS_BASE := https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/
 
