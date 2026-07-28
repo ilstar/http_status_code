@@ -33,6 +33,7 @@ make pack
 ```
 
 The archive is written to `build/http-status-code.alfredworkflow`.
+Double-click it to import the workflow into Alfred.
 
 Installation
 ------------
