@@ -12,7 +12,7 @@ from feedback import Feedback
 
 query = sys.argv[1]
 query = query.lower()
-baseurl = 'https://httpstatuses.com/'
+baseurl = 'https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/'
 
 fb = Feedback()
 
