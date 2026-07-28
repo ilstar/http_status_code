@@ -5,8 +5,9 @@ An [Alfred](https://www.alfredapp.com/) workflow for looking up HTTP status
 codes. Selecting a result opens the corresponding
 [MDN HTTP status reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status).
 
-![screenshot 2014-07-23 11 56 04](https://cloud.githubusercontent.com/assets/128977/3679639/b41e2988-12a6-11e4-94ff-51cb27dc09fc.png)
-![screenshot 2014-07-23 11 55 54](https://cloud.githubusercontent.com/assets/128977/3679640/b67f6084-12a6-11e4-9edd-07afd141f340.png)
+<img width="764" height="540" alt="Screenshot 2026-07-27 at 9 16 19 PM" src="https://github.com/user-attachments/assets/d4d05271-2834-49b0-8085-5c4d4a6fc6b5" />
+<img width="764" height="172" alt="Screenshot 2026-07-27 at 9 16 31 PM" src="https://github.com/user-attachments/assets/361647dc-1255-4172-86fd-a482ab4313eb" />
+
 
 Testing
 -------
